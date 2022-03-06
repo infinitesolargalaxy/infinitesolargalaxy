@@ -18,6 +18,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=infinitesolargalaxy&show_icons=true&locale=en&layout=compact" alt="infinitesolargalaxy" /></p>
 
+<details>
+<summary>Fun Stats</summary>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=infinitesolargalaxy&show_icons=true&locale=en" alt="infinitesolargalaxy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=infinitesolargalaxy&" alt="infinitesolargalaxy" /></p>
+</details>
