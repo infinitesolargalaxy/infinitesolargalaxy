@@ -1,12 +1,14 @@
 <h1 align="center">I am Michael<img src="https://github.githubassets.com/images/mona-whisper.gif" style="width: 48px; cursor: default;" alt="mona-whisper"></h1>
-<h3 align="center">Fullstack Software Developer from Canada</h3>
-<h5 align="center">✨Creating New Worlds, a Brilliant Tomorrow✨</h5>
+<h3 align="center">🖥️ Fullstack Software Developer from Canada 🍁</h3>
+<h5 align="center">✨ Creating New Worlds, a Brilliant Tomorrow ☀️</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infinitesolargalaxy&label=Profile%20views&color=0e75b6&style=flat" alt="infinitesolargalaxy" /> </p>
 
 - 🔭 See my portfolio at https://infinitesolargalaxy.github.io/
 
-- ⚡ **I am a hobbyist game modder and science-fiction writer.**
+- 🛠️ Video Game Modder
+- 🌌 Ardent fan of Sci-Fi.
+- ✏️ Science-Fiction and Fantasy writer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
